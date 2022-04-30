@@ -13,7 +13,7 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanofficial/SophiaMusic-v6)
+[![Deploy] <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AXELXDEV/Starxd"> l<img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="300" height="50.75"/></a></p>
 
 
 
